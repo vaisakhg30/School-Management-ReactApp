@@ -13,7 +13,8 @@ const Header = () => {
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         
-        <Link class="nav-link" to='/'>Addstud</Link>
+        <Link class="nav-link" to='/'>Add student</Link>
+        <Link class="nav-link" to='/facul'>Add Faculties</Link>
       
       </div>
     </div>
