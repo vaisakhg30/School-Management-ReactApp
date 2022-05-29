@@ -4,11 +4,11 @@ import Header from './Header'
 const Viewstud = () => {
 
     var Viewstud=[{
-        "admno":"123",
+        "admno":"1234",
         "rollno":"1",
         "name":"vaisakh",
         "class":"mca",
-        "parentname":"sindhu",
+        "parentname":"sindhu", 
         "mobile":"9876543211",
         "address":"kumbazha"
     }]
